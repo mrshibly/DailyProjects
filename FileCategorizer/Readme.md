@@ -24,11 +24,11 @@ FileCategorizer is a Python tool designed to organize files in a specified direc
 ## Installation
 
 1. Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
-2. Clone this repository or download the script directly.
 
-```bash
-git clone https://github.com/mrshibly/FileCategorizer/FileCategorizer.py
-```
+2. Download the `file_categorizer.py` script directly from the repository. You can find the raw script file [here](https://raw.githubusercontent.com/mrshibly/DailyProjects/main/FileCategorizer/FileCategorizer.py).
+
+   To download the script:
+   - Right-click on the link and select "Save link as..." to download the file to your computer.
 
 ## Usage
 
@@ -37,7 +37,7 @@ git clone https://github.com/mrshibly/FileCategorizer/FileCategorizer.py
 3. Run the script by entering the following command:
 
 ```bash
-python file_categorizer.py
+python FileCategorizer.py
 ```
 
 4. When prompted, enter the full path of the directory you want to organize (e.g., `C:\path\to\your\folder`).
