@@ -14,7 +14,7 @@ URLAnalyzer is a Python tool for analyzing various aspects of a web URL. It fetc
 
 ### Installation
 
-1. Clone the repository or download the `url_analyzer.py` file.
+1. Clone the repository or download the `URLAnalyzer.py` file.
 
 2. Install dependencies:
    ```bash
@@ -25,24 +25,24 @@ URLAnalyzer is a Python tool for analyzing various aspects of a web URL. It fetc
 
 To analyze a webpage and display the title and meta description:
 ```bash
-python url_analyzer.py https://www.example.com
+python URLAnalyzer.py https://www.example.com
 ```
 
 ### Advanced Usage
 
 To include link analysis:
 ```bash
-python url_analyzer.py https://www.example.com --links
+python URLAnalyzer.py https://www.example.com --links
 ```
 
 To include text content analysis:
 ```bash
-python url_analyzer.py https://www.example.com --text
+python URLAnalyzer.py https://www.example.com --text
 ```
 
 To include both link and text content analysis:
 ```bash
-python url_analyzer.py https://www.example.com --links --text
+python URLAnalyzer.py https://www.example.com --links --text
 ```
 
 ## Contributing
