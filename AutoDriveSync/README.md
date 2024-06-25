@@ -32,7 +32,7 @@ AutoDriveSync is an automated data backup system that uploads files from a speci
 1. **Run the backup script:**
 
     ```bash
-    python backup_to_gdrive.py
+    python  AutoDriveSync.py
     ```
 
 2. **Follow the prompts:**
@@ -55,7 +55,7 @@ AutoDriveSync is an automated data backup system that uploads files from a speci
 Here is an example of running the script:
 
 ```bash
-$ python backup_to_gdrive.py
+$ python AutoDriveSync.py
 Enter the path to the local folder you want to backup: /path/to/local/folder
 Enter the ID of the Google Drive folder to upload to: your_drive_folder_id
 Local folder: /path/to/local/folder
