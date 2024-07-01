@@ -18,12 +18,7 @@ Welcome to **EncryptoLock** - your secure password manager that stores and retri
 
 ### Installation
 
-1. Clone the repository:
-
-    ```sh
-    git clone https://github.com/yourusername/encrypto_lock.git
-    cd encrypto_lock
-    ```
+1. Clone the repository
 
 2. Install the required libraries:
 
@@ -34,7 +29,7 @@ Welcome to **EncryptoLock** - your secure password manager that stores and retri
 3. Run the script:
 
     ```sh
-    python encrypto_lock.py
+    python EncryptoLock.py
     ```
 
 ## 🛠️ Usage
@@ -80,7 +75,7 @@ Enter choice:
 ```plaintext
 encrypto_lock/
 │
-├── encrypto_lock.py    # Main script
+├── EncryptoLock.py     # Main script
 ├── secret.key          # Encryption key (generated automatically)
 └── passwords.json      # JSON file to store encrypted passwords
 ```
