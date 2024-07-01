@@ -73,7 +73,7 @@ Enter choice:
 ## 📂 Project Structure
 
 ```plaintext
-encrypto_lock/
+EncryptoLock/
 │
 ├── EncryptoLock.py     # Main script
 ├── secret.key          # Encryption key (generated automatically)
